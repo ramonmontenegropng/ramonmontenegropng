@@ -1,5 +1,6 @@
 <h1 align="center">Bem vindo! 😃</h1>
-<p align="center">Designer em transição de carreira, desbravando o mundo da tecnologia e atualmente cursando Sistemas de Informação na <a href="https://www.unifacisa.edu.br/home">Unifacisa Centro Universitário</a>.<p>
+<p align="center">Designer em transição de carreira, desbravando o mundo da tecnologia.<p>
+<p align="center">Atualmente cursando Sistemas de Informação na <a href="https://www.unifacisa.edu.br/home">Unifacisa Centro Universitário</a>.</p>
   
 <h2 align="center">Fale Comigo</h2>
 <div align="center"> 
